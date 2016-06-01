@@ -4,11 +4,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
 
-
  	<properties>
         <java.version>1.8</java.version>
     </properties>
-    
     
     <groupId>org.springframework</groupId>
     <artifactId>spring-data-00</artifactId>
@@ -20,7 +18,6 @@
         <version>1.3.5.RELEASE</version>
     </parent>
 
-   
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
